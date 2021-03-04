@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Carlos-Felix/jecas/static/css/main.83364dcb.chunk.css",
-    "main.js": "/Carlos-Felix/jecas/static/js/main.bae1bd37.chunk.js",
-    "main.js.map": "/Carlos-Felix/jecas/static/js/main.bae1bd37.chunk.js.map",
+    "main.js": "/Carlos-Felix/jecas/static/js/main.1b70e406.chunk.js",
+    "main.js.map": "/Carlos-Felix/jecas/static/js/main.1b70e406.chunk.js.map",
     "runtime-main.js": "/Carlos-Felix/jecas/static/js/runtime-main.14dead89.js",
     "runtime-main.js.map": "/Carlos-Felix/jecas/static/js/runtime-main.14dead89.js.map",
-    "static/js/2.c53296c3.chunk.js": "/Carlos-Felix/jecas/static/js/2.c53296c3.chunk.js",
-    "static/js/2.c53296c3.chunk.js.map": "/Carlos-Felix/jecas/static/js/2.c53296c3.chunk.js.map",
+    "static/js/2.07413f38.chunk.js": "/Carlos-Felix/jecas/static/js/2.07413f38.chunk.js",
+    "static/js/2.07413f38.chunk.js.map": "/Carlos-Felix/jecas/static/js/2.07413f38.chunk.js.map",
     "static/js/3.a9839b23.chunk.js": "/Carlos-Felix/jecas/static/js/3.a9839b23.chunk.js",
     "static/js/3.a9839b23.chunk.js.map": "/Carlos-Felix/jecas/static/js/3.a9839b23.chunk.js.map",
     "index.html": "/Carlos-Felix/jecas/index.html",
     "static/css/main.83364dcb.chunk.css.map": "/Carlos-Felix/jecas/static/css/main.83364dcb.chunk.css.map",
-    "static/js/2.c53296c3.chunk.js.LICENSE.txt": "/Carlos-Felix/jecas/static/js/2.c53296c3.chunk.js.LICENSE.txt",
+    "static/js/2.07413f38.chunk.js.LICENSE.txt": "/Carlos-Felix/jecas/static/js/2.07413f38.chunk.js.LICENSE.txt",
     "static/media/logo_jecas.24aefc41.jpg": "/Carlos-Felix/jecas/static/media/logo_jecas.24aefc41.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.14dead89.js",
-    "static/js/2.c53296c3.chunk.js",
+    "static/js/2.07413f38.chunk.js",
     "static/css/main.83364dcb.chunk.css",
-    "static/js/main.bae1bd37.chunk.js"
+    "static/js/main.1b70e406.chunk.js"
   ]
 }
